@@ -1,0 +1,221 @@
+{
+  "users": {
+    "8869533744": {
+      "mc": 25,
+      "mine": 0,
+      "daily": 1779454467,
+      "invites": 0,
+      "joined": false,
+      "level": 1,
+      "xp": 0
+    },
+    "7553598484": {
+      "mc": 1007,
+      "mine": 1779458083,
+      "daily": 1779455958,
+      "invites": 0,
+      "joined": false,
+      "level": 1,
+      "xp": 17
+    },
+    "8201406279": {
+      "mc": 478,
+      "mine": 0,
+      "daily": 0,
+      "invites": 0,
+      "joined": false,
+      "level": 1,
+      "xp": 0
+    }
+  },
+  "products": {
+    "1": {
+      "name": "مود better on bedrock",
+      "price": 5,
+      "desc": "مود باك ضخم جدا لأنه يضيف مئات البيومات الجديدة في النذر والاند مع اورات جديدة ، بلوكات ديكور و حقائب ظهر واشياء اخرى",
+      "content": "BQACAgQAAxkBAAICamoPLw8uqR6Yy0_JZG1J5vStSpv0AAKbIwACVkUoUEb26uM2i-MOOwQ",
+      "content_type": "document",
+      "category": "1",
+      "stock": "unlimited"
+    },
+    "2": {
+      "name": "مود RLCRAFT",
+      "price": 7,
+      "desc": "مود RL Craft \nشرح :   ﻧﻈﺎم ﻋﺎﻟﻢ ﺟﺪﻳﺪ  ﺑﻨﺎﺋﺎﺕ ﻭﺍﻟﻤﺳﺎﺣﻖ\nﺗﻘﺪﻡ ﻓﻲ ﺍﻟﻤﻬﺎﺭﺍﺕ ﻭﺍﺳﺘﺨﺪﻡ ﺃﺩﻭﺍﺕ ﺟﺪﻳﺪﺓ ﻗﻮﻳﺔ\nﺗﺤﺮﻳﻜﺎﺕ ﺍﻟﻼﻋﺐ ﻭﺍﻟﺴﻼﺣﺎﺕ ﺍﻟﻤﺨﺘﺼﺔ\nﺗﻨﺎﻳﻴﺎﺕ ﺍﻟﺘﻨﻴﻦ ﺍﻟﻌﻨﺎﺻﺮﻳﺔ +\nﺳﺘﻤﻮﺕ ﻛﺜﻴﺮﺍ...\nالإصـدار: 26.20",
+      "content": "BQACAgQAAxkBAAICH2oPK-5L8zqAFVQ1Un2F9Hgg7GUkAAJpGgAC944xUHTG2JrXXN8xOwQ",
+      "content_type": "document",
+      "category": "1",
+      "stock": "unlimited"
+    },
+    "3": {
+      "name": "مود action and stuff",
+      "price": 10,
+      "desc": "    ستحسن حزمة الموارد هذه تجربتك في Minecraft. فهي تحسن كلًا من التأثيرات البصرية واللعب. استمتع بلعبة سلسة ورائعة مع مظهر ثلاثي الأبعاد لمعظم العناصر ورسوم متحركة جديدة للطعام، وهذا ليس كل شيء..\n\n💠 الإصـدار: +𝟣.𝟤𝟨",
+      "content": "BQACAgIAAxkBAAIE5WoQUOM53VGIswaP5hwiTSeAv_9LAALblgACrhkwSMx1FKknpx8YOwQ",
+      "content_type": "document",
+      "category": "1",
+      "stock": "unlimited"
+    },
+    "4": {
+      "name": "مود FRIEND EXE",
+      "price": 0,
+      "desc": "استمتع، واستمتع، والمزيد مع صديقك الروبوت الجديد! لكن تذكر ألا تُحزنه أبدًا! هذه الإضافة تُحوّل صديقك المُقرّب إلى كابوسك الأسوأ. + وضع اللعب الودود ضد الرعب + سلوك مُعقد بصيغة Friend.EXE + أصوات ورسوم متحركة مُرعبة ومشاهد مُرعبة + الإضافة تعمل في أي عالم !",
+      "content": "BQACAgQAAxkBAAIE6WoQUSXCLhkgzZUhY7eFnbXxW42qAAJmHAAC28OZUUGNfqw88XgROwQ",
+      "content_type": "document",
+      "category": "1",
+      "stock": "unlimited"
+    },
+    "5": {
+      "name": "مود البناء السريع",
+      "price": 0,
+      "desc": "يساعدك تبني سريع",
+      "content": "BQACAgIAAxkBAAIFFWoQUlt1hN6dMYDSvRROHAp0juGxAALWggACGhNhS246axrroRIBOwQ",
+      "content_type": "document",
+      "category": "1",
+      "stock": "unlimited"
+    },
+    "6": {
+      "name": "مود التحول",
+      "price": 5,
+      "desc": "تقدر تتحول لاي موب وتاخذ قدرته عن طريق آلة morphing bracelet",
+      "content": "BQACAgIAAxkBAAIFJGoQU3VNiwj6kEMAAT7EA2sHUc46_QACIJkAAuk8QUoVRu1JK4YyTTsE",
+      "content_type": "document",
+      "category": "1",
+      "stock": "unlimited"
+    },
+    "7": {
+      "name": "مود واند السحر",
+      "price": 0,
+      "desc": "ادوات توجد بها ميزات سحرية",
+      "content": "BQACAgIAAxkBAAIFTGoQbLhtzWmzg1j838s3Ers9eVOXAAIPqQACv-RxSCg_Rstv8yhxOwQ",
+      "content_type": "document",
+      "category": "1",
+      "stock": "unlimited"
+    },
+    "8": {
+      "name": "مود التحليل السريع",
+      "price": 0,
+      "desc": "مود يجعلك تحلل اي ايتم بسرعه من ضغطه زر",
+      "content": "BQACAgIAAxkBAAIFXmoQbQ_tDxAAARkDKJuPvggjlv8mmQAC-6gAAr_kcUixaUjqKHuHFDsE",
+      "content_type": "document",
+      "category": "1",
+      "stock": "unlimited"
+    },
+    "9": {
+      "name": "مود الحصاد السريع",
+      "price": 0,
+      "desc": "الحصاد السريع",
+      "content": "BQACAgIAAxkBAAIFbGoQbUytOyLQubnGfP_0RhuakxMsAAL6qAACv-RxSFggEsJsAAFsazsE",
+      "content_type": "document",
+      "category": "1",
+      "stock": "unlimited"
+    },
+    "10": {
+      "name": "مود المتاجر",
+      "price": 0,
+      "desc": "مود متجر خاص بماينكرافت لتبادل الموارد بين الاعبين",
+      "content": "BQACAgIAAxkBAAIFg2oQbexumxZ3Tgd_WAUW8_idchc9AAKEnQACmzhpSFLAKrmtfjSiOwQ",
+      "content_type": "document",
+      "category": "1",
+      "stock": "unlimited"
+    },
+    "11": {
+      "name": "مود زياده نسبه ظهور الاورات",
+      "price": 0,
+      "desc": "زياده نسبه ظهور الاورات",
+      "content": "BQACAgQAAxkBAAIFkWoQbiDR1ZfWlUltQ5Cud1amUW40AALJKQACkIaBUJmGAAERIyy-5TsE",
+      "content_type": "document",
+      "category": "1",
+      "stock": "unlimited"
+    }
+  },
+  "categories": {
+    "1": {
+      "name": "مودات ماين كرافتbedrock🤦‍♂️"
+    }
+  },
+  "orders": [
+    {
+      "user": "7553598484",
+      "product": "مود better on bedrock",
+      "price": 5,
+      "time": 1779456772
+    },
+    {
+      "user": "7553598484",
+      "product": "مود better on bedrock",
+      "price": 5,
+      "time": 1779456790
+    },
+    {
+      "user": "7553598484",
+      "product": "مود better on bedrock",
+      "price": 5,
+      "time": 1779456792
+    },
+    {
+      "user": "7553598484",
+      "product": "مود better on bedrock",
+      "price": 5,
+      "time": 1779456795
+    },
+    {
+      "user": "7553598484",
+      "product": "مود better on bedrock",
+      "price": 5,
+      "time": 1779456796
+    },
+    {
+      "user": "7553598484",
+      "product": "مود better on bedrock",
+      "price": 5,
+      "time": 1779456797
+    },
+    {
+      "user": "7553598484",
+      "product": "مود better on bedrock",
+      "price": 5,
+      "time": 1779456798
+    },
+    {
+      "user": "7553598484",
+      "product": "مود better on bedrock",
+      "price": 5,
+      "time": 1779456798
+    },
+    {
+      "user": "8201406279",
+      "product": "مود better on bedrock",
+      "price": 5,
+      "time": 1779457399
+    },
+    {
+      "user": "8201406279",
+      "product": "مود RLCRAFT",
+      "price": 7,
+      "time": 1779457407
+    },
+    {
+      "user": "7553598484",
+      "product": "مود FRIEND EXE",
+      "price": 0,
+      "time": 1779457966
+    },
+    {
+      "user": "8201406279",
+      "product": "مود action and stuff",
+      "price": 10,
+      "time": 1779458038
+    }
+  ],
+  "settings": {
+    "currency_name": "MineCoin",
+    "mine_min": 5,
+    "mine_max": 20,
+    "mine_cooldown": 1800,
+    "daily_reward": 150,
+    "invite_reward": 300,
+    "discount": 0,
+    "tax": 0
+  }
+}
